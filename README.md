@@ -9,5 +9,6 @@ Here, The Weather Dataset is a time-series data set with pre-hour information ab
 This Data is available as a CSV file. We are going to analyze this data set using the pandas data frame.
 
 ## Analyzing DataFrames & Questions related to data to get the insights.
-![Weather Ques](https://user-images.githubusercontent.com/37445224/162912035-ac47b502-7ea3-4b90-85a0-736be5ae3428.png)
+
+![Weather Ques](https://user-images.githubusercontent.com/37445224/162912472-28417392-495f-40b0-a953-1fb5af2addc3.png)
 
