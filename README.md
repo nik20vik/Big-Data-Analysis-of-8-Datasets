@@ -11,6 +11,7 @@ Here, The Weather Dataset is a time-series data set with pre-hour information ab
 All done in Jupyter Notebook attached in files.
 (Image Below)
 
+![](Images/1.%20Weather.png)
 
 ## PROJECT - 2 Cars Dataset
 
@@ -21,6 +22,7 @@ Here, the data of different cars is given with their specifications. This data i
 All done in Jupyter Notebook attached in files.
 (Image Below)
 
+![](Images/2.%20Car.png)
 
 ## PROJECT 3 - Police Dataset
 
@@ -31,6 +33,7 @@ Here, the data of police check post is given. This data is available as a CSV fi
 All done in Jupyter Notebook attached in files.
 (Image Below)
 
+![](Images/3.%20Police.png)
 
 ## PROJECT 4 - COVID - 19 SMALL DATASET
 
@@ -46,6 +49,8 @@ This data is analyzed using Pandas DataFrame.
 
 All done in Jupyter Notebook attached in files.
 (Image Below)
+
+![](Images/4.%20COVID%20-19.png)
 
 ## PROJECT 5 - LONDON HOUSING DATASET
 
@@ -66,6 +71,8 @@ Analyzing data using pandas data frame.
 All done in Jupyter Notebook attached in files.
 (Image Below)
 
+![](Images/5.%20London%20Housing.png)
+
 ## PROJECT 6 -  INDIA CENSUS 2011 DATASET
 
 This data is about total population - Demography, Literacy, Districts, States, Workers, Religion, Education, Age.
@@ -81,6 +88,8 @@ Analyzing this data using the Pandas DataFrame.
 All done in Jupyter Notebook attached in files.
 (Image Below)
 
+![](Images/6.%20India%20Census.png)
+
 ## PROJECT 7 - UDEMY COURSES DATASET
 
 This dataset contains all courses data for all subjects.
@@ -92,6 +101,8 @@ Analyzing this data using the pandas library.
 All done in Jupyter Notebook attached in files.
 (Image Below)
 
+![](Images/7.%20Udemy%20Courses.png)
+
 ## PROJECT 8 - NETFLIX DATASET
 
 This Netflix Dataset has information about the TV Shows and Movies available on Netflix till 2021.
@@ -102,3 +113,7 @@ This dataset is collected from flixable which is third-party Netflix search engi
 
 All done in Jupyter Notebook attached in files.
 (Image Below)
+
+![](Images/8.%20Netflix.png)
+
+That's all for the Projects. We gain some insights from the data and analyze using python programming language.
